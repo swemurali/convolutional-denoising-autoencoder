@@ -5,10 +5,7 @@
 To develop a convolutional autoencoder for image denoising application.
 
 ## Problem Statement and Dataset
-
-## Convolution Autoencoder Network Model
-
-Include the neural network model diagram.
+Downloading data from https://storage.googleapis.com/tensorflow/tf-keras-datasets/mnist.npz
 
 ## DESIGN STEPS
 ### STEP 1:
